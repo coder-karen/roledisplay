@@ -1,10 +1,10 @@
 # Role Display
 
-WordPress plugin that displays a notice with the user role plus a link to it's capabilities.
+A WordPress plugin that displays a removable and resettable notice with the user's role plus a link to that role's capabilities.
 
 ## Description
 
-WordPress plugin that displays a notice with the user role plus a link to it's capabilities.
+Role Display is a simple WordPress plugin that displays a removable and resettable notice with the user's role plus a link to that role's capabilities.
 
 ## Requirements
  * WordPress 5.2
@@ -29,5 +29,5 @@ WordPress plugin that displays a notice with the user role plus a link to it's c
 
 ## Usage
 
-Activate the plugin and a role notification will automatically change.
+Activate the plugin and a role notification will automatically change. To dismiss it permanently, click 'Dismiss'. The notice can be reset from the user profile page.
 

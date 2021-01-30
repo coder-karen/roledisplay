@@ -6,7 +6,7 @@
  * @wordpres_plugin
  * Plugin Name:       Role Display Notification
  * Plugin URI:        https://karenattfield.com
- * Description:       Displays a notice with the user role plus a link to it's capabilities
+ * Description:       Displays a removable and resettable notice with the user role plus a link to it's capabilities
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
